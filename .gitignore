@@ -1,0 +1,14 @@
+#ignore node modules
+node_modules/
+
+#lock file for npm 
+package-lock.json
+
+#lock file for yarn
+yarn.lock
+
+#vscode config file
+.vscode/
+
+#uniqid for user
+uniqid.id
